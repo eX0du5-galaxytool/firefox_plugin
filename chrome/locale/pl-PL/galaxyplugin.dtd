@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "Włącz GTP">
+<!ENTITY toolbar.activate.t "Włącz wtyczkę Galaxytool">
+<!ENTITY toolbar.options "Opcje GTP">
+<!ENTITY toolbar.options.t "Opcje wtyczki Galaxytool">
+<!ENTITY toolbar.reports "Wczytaj RS">
+<!ENTITY toolbar.statusLabel "Status:">
+<!ENTITY toolbar.statusInfo "brak">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Plugin Options">
+<!ENTITY dialog.title "Opcje wtyczki Galaxytool">
+<!ENTITY dialog.ogameurl "Nazwa serwera Universum">
+<!ENTITY dialog.ogameuni "Universe">
+<!ENTITY dialog.galaxytoolurl "Adres Galaxytoola">
+<!ENTITY dialog.username "Użytkownik">
+<!ENTITY dialog.password "Hasło">
+
+<!ENTITY dialog.autoreports "Wysylaj raporty szpiegowskie automatycznie">
+<!ENTITY dialog.debug "Wysylaj dodatkowe informacje (dla programistow)">
+<!ENTITY dialog.show_statuswindow "Pokaz okno statusu">
+<!ENTITY dialog.submib_galaxy "Wysylaj widok galaktyki">
+<!ENTITY dialog.submib_stats "Wysylaj statystyki graczy i sojuszy">
+<!ENTITY dialog.submib_reports "Wysylaj raporty szpiegowskie">
+<!ENTITY dialog.submib_allypage "Wysylaj informacje o sojuszu">
+<!ENTITY dialog.submib_buildings "Wysylaj budynki">
+<!ENTITY dialog.submib_research "Wysylaj badania">
+<!ENTITY dialog.submib_fleet "Wysylaj floty">
+<!ENTITY dialog.submib_defense "Wysylaj obrone">
+
+<!ENTITY dialog.status_window "Okno Statusu">
+<!ENTITY dialog.status_style "Definiuj styl CSS">
+<!ENTITY dialog.status_style_window "Okno">
+<!ENTITY dialog.status_style_header "Naglowek">
+<!ENTITY dialog.status_style_results "Podglad statusu">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Ustawienia">
+<!ENTITY dialog.add_tool "Dodaj nowy Galaxytool">
+<!ENTITY dialog.delete "Skasuj">
+<!ENTITY dialog.name "Nazwa">
+<!ENTITY dialog.uni_data "Informacje o uniwersum">
+<!ENTITY dialog.own_data "Informacje o koncie">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Wersja Galaxytool">
+<!ENTITY dialog.submib_empire "Prześlij widok imperium">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Wyślij stocznie">
+<!ENTITY dialog.espionage_action "Wyślij działania wrogich jednostek">
+<!ENTITY dialog.submib_phalanx "Wyślij raport falangi">
+<!ENTITY dialog.submib_fmovement "Wyśli ruchy własnej floty">
+<!ENTITY dialog.submib_short_cr "Wyśli skrócony CRs">
+<!ENTITY dialog.submib_player_message "Wyśli wiadomości graczy (aktywność)">
+<!ENTITY dialog.submib_message_content "Wyśli także treść wiadomości gracza">
+<!ENTITY dialog.check_btn "Sprawdź">
+<!ENTITY dialog.own_player_id "Poproś o własne ID gracza OGame">
+<!ENTITY dialog.own_player_id_title "Wyłącz jeśli się wylogować zaraz po dostępie do OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Klucz logowania">

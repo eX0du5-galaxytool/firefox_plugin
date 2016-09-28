@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://galaxyplugin/skin/galaxyplugin.css" type="text/css"?>
+
+<!DOCTYPE overlay SYSTEM "chrome://galaxyplugin/locale/galaxyplugin.dtd">
+
+<!-- foreign JS source files -->
+<overlay id="GTPlugin-Overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<!-- All own javascript source files -->
+<script type="application/x-javascript" src="chrome://global/content/XPCNativeWrapper.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/galaxystorage.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/galaxyoptions2.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/general.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/highscore.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/galaxyview.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/allypage.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/planet_data.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/techtree.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/empire.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/fleet_movement.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/messages.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/combat_reports.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/auctioneer.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/phalanxtracinglistener.js"/>
+<script type="application/x-javascript" src="chrome://galaxyplugin/content/init.js"/>
+
+<!-- This is for the right click menu. -->
+
+<popup id="contentAreaContextMenu">
+    <menu insertafter="context-selectall,context-stop,context-copylink" id="GTPlugin-cmenu" label="Galaxytool Plugin" class="menu-iconic" image="chrome://galaxyplugin/skin/galaxyplugin_16.png">
+      <menupopup id="GTPlugin-cpopup">
+        <menuitem label="&toolbar.options;" accesskey="O" oncommand="galaxytoolbar.GTPlugin_general.openOptionsDialog(false);"/>
+      </menupopup>
+    </menu>
+    <menuseparator insertbefore="GTPlugin-cmenu"/>
+</popup>
+
+<!-- Strings that shall be shown during JS runtime -->
+<stringbundleset id="stringbundleset">
+	<stringbundle id="galaxytoolbarStrings" src="chrome://galaxyplugin/locale/galaxyplugin.properties"/>
+</stringbundleset>
+
+
+</overlay>

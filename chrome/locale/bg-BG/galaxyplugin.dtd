@@ -1,0 +1,64 @@
+﻿<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "Активиране на ДGT">
+<!ENTITY toolbar.activate.t "Активиране на добавката за Galaxytool">
+<!ENTITY toolbar.options "Настройки на ДGT">
+<!ENTITY toolbar.options.t "Настройки на добавката за Galaxytool">
+<!ENTITY toolbar.reports "Четене на доклади">
+<!ENTITY toolbar.statusLabel "Статус:">
+<!ENTITY toolbar.statusInfo "нищо">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Настройки на добавката">
+<!ENTITY dialog.title "Настройки на добавката за Galaxytool">
+<!ENTITY dialog.ogameurl "Сървер на OGame">
+<!ENTITY dialog.ogameuni "Вселена">
+<!ENTITY dialog.galaxytoolurl "Линк към Galaxytool">
+<!ENTITY dialog.username "Потребителско име">
+<!ENTITY dialog.password "Парола">
+
+<!ENTITY dialog.autoreports "Автоматично изпращане на докладите">
+<!ENTITY dialog.debug "Показване на информация за дебъгване">
+<!ENTITY dialog.show_statuswindow "Показване на статус прозорчето">
+<!ENTITY dialog.submib_galaxy "Изпращане на данни за Галактиката">
+<!ENTITY dialog.submib_stats "Изпращане на статистики за играчите и съюзите">
+<!ENTITY dialog.submib_reports "Изпращане на доклади">
+<!ENTITY dialog.submib_allypage "Изпращане на страницата на съюза">
+<!ENTITY dialog.submib_buildings "Изпращане на информацията за сградите">
+<!ENTITY dialog.submib_research "Изпращане на информацията за проучванията">
+<!ENTITY dialog.submib_fleet "Изпращане на информацията за флотите">
+<!ENTITY dialog.submib_defense "Изпращане на информацията за защитите">
+
+<!ENTITY dialog.status_window "Статус прозорец">
+<!ENTITY dialog.status_style "Дефиниране на CSS стилове">
+<!ENTITY dialog.status_style_window "Прозорец">
+<!ENTITY dialog.status_style_header "Заглавен ред">
+<!ENTITY dialog.status_style_results "Статус">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Общи данни">
+<!ENTITY dialog.add_tool "Добавяне на нов инструмент">
+<!ENTITY dialog.delete "Изтриване">
+<!ENTITY dialog.name "Име">
+<!ENTITY dialog.uni_data "Данни за вселената">
+<!ENTITY dialog.own_data "Собствени данни">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool версия">
+<!ENTITY dialog.submib_empire "Изпращане на изгледи Империя">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Изпращане на информация от Доковете">
+<!ENTITY dialog.espionage_action "Изпращане на информация за вражески шпионски действия">
+<!ENTITY dialog.submib_phalanx "Изпращане на сензорни доклади">
+<!ENTITY dialog.submib_fmovement "Изпращане на информация за собственото движение на флотите">
+<!ENTITY dialog.submib_short_cr "Изпращане на кратките доклади от битките">
+<!ENTITY dialog.submib_player_message "Изпращане на съобщенията от други играчи (активност)">
+<!ENTITY dialog.submib_message_content "Изпращане също и на съдържанието на съобщенията от други играчи">
+<!ENTITY dialog.check_btn "Проверка">
+<!ENTITY dialog.own_player_id "Изискване на идентификатора на играча">
+<!ENTITY dialog.own_player_id_title "Изключете това, ако играта Ви изхвърля веднага след влизане">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Ключ за влизане">

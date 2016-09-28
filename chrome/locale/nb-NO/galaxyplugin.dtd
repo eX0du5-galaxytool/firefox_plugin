@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Verktøylinje">
+<!ENTITY toolbar.activate "Aktiver GTP">
+<!ENTITY toolbar.activate.t "Aktiver Galaxytool Plugin">
+<!ENTITY toolbar.options "GTP Valg">
+<!ENTITY toolbar.options.t "Galaxytool Plugin Valg">
+<!ENTITY toolbar.reports "Skaff rapporter">
+<!ENTITY toolbar.statusLabel "Status:">
+<!ENTITY toolbar.statusInfo "ingenting">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Plugin Valg">
+<!ENTITY dialog.title "Galaxyplugin Valg">
+<!ENTITY dialog.ogameurl "OGame Servernavn">
+<!ENTITY dialog.ogameuni "Univers">
+<!ENTITY dialog.galaxytoolurl "Galaxytool URL">
+<!ENTITY dialog.username "Brukernavn">
+<!ENTITY dialog.password "Passord">
+
+<!ENTITY dialog.autoreports "Overfør rapporter automatisk">
+<!ENTITY dialog.debug "Vis debug informasjon">
+<!ENTITY dialog.show_statuswindow "Vis status vindu">
+<!ENTITY dialog.submib_galaxy "Overfør galaxyview">
+<!ENTITY dialog.submib_stats "Overfør spiller og allianse statistikker">
+<!ENTITY dialog.submib_reports "Overfør rapporter">
+<!ENTITY dialog.submib_allypage "Overfør allianses medlems liste">
+<!ENTITY dialog.submib_buildings "Overfør bygninger">
+<!ENTITY dialog.submib_research "Overfør forskning">
+<!ENTITY dialog.submib_fleet "Overfør flåte">
+<!ENTITY dialog.submib_defense "Overfør forsvar">
+
+<!ENTITY dialog.status_window "Status vindu">
+<!ENTITY dialog.status_style "Definer CSS Styles">
+<!ENTITY dialog.status_style_window "Vindu">
+<!ENTITY dialog.status_style_header "Tittel linje">
+<!ENTITY dialog.status_style_results "Status view">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Generell Data">
+<!ENTITY dialog.add_tool "Legg til ny Galaxytool">
+<!ENTITY dialog.delete "Slett">
+<!ENTITY dialog.name "Navn">
+<!ENTITY dialog.uni_data "Univers data">
+<!ENTITY dialog.own_data "Egen data">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool Versjon">
+<!ENTITY dialog.submib_empire "Send inn Imperium">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Send skipsverft">
+<!ENTITY dialog.espionage_action "Send fientlig spionasje-aksjon">
+<!ENTITY dialog.submib_phalanx "Send phalanx raporter">
+<!ENTITY dialog.submib_fmovement "Send egen flåtebevegelse">
+<!ENTITY dialog.submib_short_cr "Send korte CRs">
+<!ENTITY dialog.submib_player_message "Send spiller melding (aktivitet)">
+<!ENTITY dialog.submib_message_content "Send også innholdet av spiller melding">
+<!ENTITY dialog.check_btn "Sjekk">
+<!ENTITY dialog.own_player_id "Be om egen OGame spiller ID">
+<!ENTITY dialog.own_player_id_title "Deaktiver hvis du blir logget ut rett etter innlogging til OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Logon Key">

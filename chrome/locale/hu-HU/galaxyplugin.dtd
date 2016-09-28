@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "Aktív GTP">
+<!ENTITY toolbar.activate.t "Aktív Galaxytool Plugin">
+<!ENTITY toolbar.options "GTP Opciók">
+<!ENTITY toolbar.options.t "Galaxytool Plugin Opciók">
+<!ENTITY toolbar.reports "Jelentés betöltése">
+<!ENTITY toolbar.statusLabel "Státusz:">
+<!ENTITY toolbar.statusInfo "semmi">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Plugin Opciók">
+<!ENTITY dialog.title "Galaxyplugin Opciók">
+<!ENTITY dialog.ogameurl "OGame Szervernév">
+<!ENTITY dialog.ogameuni "Univerzum">
+<!ENTITY dialog.galaxytoolurl "Galaxytool URL">
+<!ENTITY dialog.username "Felhasználónév">
+<!ENTITY dialog.password "Jelszó">
+
+<!ENTITY dialog.autoreports "Riportok autómatikus küldése">
+<!ENTITY dialog.debug "Debug információk megjelenítése">
+<!ENTITY dialog.show_statuswindow "Státusz ablak megjelenítése">
+<!ENTITY dialog.submib_galaxy "Galaxisnézet küldése">
+<!ENTITY dialog.submib_stats "Játékos és szövetség statisztikák küldése">
+<!ENTITY dialog.submib_reports "Riportok küldése">
+<!ENTITY dialog.submib_allypage "Szövetségi tagok küldése">
+<!ENTITY dialog.submib_buildings "Épületek küldése">
+<!ENTITY dialog.submib_research "Kutatások küldése">
+<!ENTITY dialog.submib_fleet "Flotta küldése">
+<!ENTITY dialog.submib_defense "Védelem küldése">
+
+<!ENTITY dialog.status_window "Státusz ablak">
+<!ENTITY dialog.status_style "CSS Stílus definiciók">
+<!ENTITY dialog.status_style_window "Ablek">
+<!ENTITY dialog.status_style_header "Fejléc">
+<!ENTITY dialog.status_style_results "Státusz nézet">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Általános adat">
+<!ENTITY dialog.add_tool "Új szerver hozzáadása">
+<!ENTITY dialog.delete "Törlés">
+<!ENTITY dialog.name "Név">
+<!ENTITY dialog.uni_data "Univerzum beállítás">
+<!ENTITY dialog.own_data "Saját beállítások">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool Verzió">
+<!ENTITY dialog.submib_empire "Birodalomnézet feltöltése">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Hajógyár küldése">
+<!ENTITY dialog.espionage_action "Kémjelentés küldése">
+<!ENTITY dialog.submib_phalanx "Phalanx jelentés küldése">
+<!ENTITY dialog.submib_fmovement "Saját flottamozgás küldése">
+<!ENTITY dialog.submib_short_cr "Rövid CR küldése">
+<!ENTITY dialog.submib_player_message "Játékos üzenet küldése (aktivitás)">
+<!ENTITY dialog.submib_message_content "Játékos üzenet tartalmának küldése">
+<!ENTITY dialog.check_btn "Ellenõrzés">
+<!ENTITY dialog.own_player_id "Saját OGame azonosító lekérése">
+<!ENTITY dialog.own_player_id_title "Ki kell kapcsolni, ha bejelentkezés után kiléptet az OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Logon Key">

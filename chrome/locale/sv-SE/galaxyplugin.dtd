@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "Aktivera GTP">
+<!ENTITY toolbar.activate.t "Aktivera Galaxytool Plugin">
+<!ENTITY toolbar.options "GTP Alternativ">
+<!ENTITY toolbar.options.t "Galaxytool Plugin Alternativ">
+<!ENTITY toolbar.reports "Läs rapporter">
+<!ENTITY toolbar.statusLabel "Status:">
+<!ENTITY toolbar.statusInfo "ingenting">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Plugin Alternativ">
+<!ENTITY dialog.title "Galaxyplugin Alternativ">
+<!ENTITY dialog.ogameurl "OGame Servernamn">
+<!ENTITY dialog.ogameuni "Universum">
+<!ENTITY dialog.galaxytoolurl "Galaxytool URL">
+<!ENTITY dialog.username "Användarnamn">
+<!ENTITY dialog.password "Lösenord">
+
+<!ENTITY dialog.autoreports "Skicka rapporter automatiskt">
+<!ENTITY dialog.debug "Visa felsökningsinformation">
+<!ENTITY dialog.show_statuswindow "Visa statusfönster">
+<!ENTITY dialog.submib_galaxy "Skicka galaxvy">
+<!ENTITY dialog.submib_stats "Skicka spelar- och alliansstatistik">
+<!ENTITY dialog.submib_reports "Skicka rapporter">
+<!ENTITY dialog.submib_allypage "Skicka allianssens medlemssida">
+<!ENTITY dialog.submib_buildings "Skicka byggnader">
+<!ENTITY dialog.submib_research "Skicka forskning">
+<!ENTITY dialog.submib_fleet "Skicka flotta">
+<!ENTITY dialog.submib_defense "Skicka försvar">
+
+<!ENTITY dialog.status_window "Statusfönster">
+<!ENTITY dialog.status_style "Definiera CSS Stil">
+<!ENTITY dialog.status_style_window "Fönster">
+<!ENTITY dialog.status_style_header "Huvud">
+<!ENTITY dialog.status_style_results "Status vy">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Generell data">
+<!ENTITY dialog.add_tool "Lägg till nytt Galaxytool">
+<!ENTITY dialog.delete "Ta bort">
+<!ENTITY dialog.name "Namn">
+<!ENTITY dialog.uni_data "Universum data">
+<!ENTITY dialog.own_data "Personlig data">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool Version">
+<!ENTITY dialog.submib_empire "Skicka Imperium Visa">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Skicka skeppsvarv">
+<!ENTITY dialog.espionage_action "Skicka fientlig spionaktivitet">
+<!ENTITY dialog.submib_phalanx "Skcika radarrapport">
+<!ENTITY dialog.submib_fmovement "Skicka egen skeppsförflyttning">
+<!ENTITY dialog.submib_short_cr "Skicka korta CR">
+<!ENTITY dialog.submib_player_message "Skicka spelarmeddelanden (aktivitet)">
+<!ENTITY dialog.submib_message_content "skicka även innehållet i meddelandet">
+<!ENTITY dialog.check_btn "Kontroll">
+<!ENTITY dialog.own_player_id "Efterfrågning av ditt spelar-ID">
+<!ENTITY dialog.own_player_id_title "Stäng av om du blir utloggad direkt efter att ha loggat in i OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Inloggningsnyckel">

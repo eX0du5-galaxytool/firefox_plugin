@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Barre d'outils Galaxytool">
+<!ENTITY toolbar.activate "Activer GTP">
+<!ENTITY toolbar.activate.t "Activer Galaxytool Plugin">
+<!ENTITY toolbar.options "GTP Options">
+<!ENTITY toolbar.options.t "Galaxytool Plugin Options">
+<!ENTITY toolbar.reports "Envoyer Rapport">
+<!ENTITY toolbar.statusLabel "Etat :">
+<!ENTITY toolbar.statusInfo "Rien à signaler">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Plugin Options">
+<!ENTITY dialog.title "Galaxyplugin Options">
+<!ENTITY dialog.ogameurl "Nom du serveur de l'Univers OGame">
+<!ENTITY dialog.ogameuni "Universe">
+<!ENTITY dialog.galaxytoolurl "URL de Galaxytool">
+<!ENTITY dialog.username "Nom d'utilisateur">
+<!ENTITY dialog.password "Mot de passe">
+
+<!ENTITY dialog.autoreports "Soumettre les rapports d'espionnages automatiquement">
+<!ENTITY dialog.debug "Montrer les informations concernant les debug">
+<!ENTITY dialog.show_statuswindow "Montrer la fenêtre de statut">
+<!ENTITY dialog.submib_galaxy "Soumettre la vue de la galaxie">
+<!ENTITY dialog.submib_stats "Soumettre les statistiques des joueurs et des alliances">
+<!ENTITY dialog.submib_reports "Soumettre les rapports d'espionnages">
+<!ENTITY dialog.submib_allypage "Soumettre la page des membres de l'alliance">
+<!ENTITY dialog.submib_buildings "Soumettre les batiments">
+<!ENTITY dialog.submib_research "Soumettre les recherches">
+<!ENTITY dialog.submib_fleet "Soumettre les flottes">
+<!ENTITY dialog.submib_defense "Soumettre la défense">
+
+<!ENTITY dialog.status_window "Fenêtre de statut">
+<!ENTITY dialog.status_style "Definir les styles de CSS">
+<!ENTITY dialog.status_style_window "Fenêtre">
+<!ENTITY dialog.status_style_header "Première ligne">
+<!ENTITY dialog.status_style_results "Vue de statut">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Données générales">
+<!ENTITY dialog.add_tool "Ajouter la nouvelle Galaxytool">
+<!ENTITY dialog.delete "Supprimer">
+<!ENTITY dialog.name "Nom">
+<!ENTITY dialog.uni_data "Données d'univers">
+<!ENTITY dialog.own_data "Données personnelles">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Version de Galaxytool">
+<!ENTITY dialog.submib_empire "Soumettre la vue de l'Empire">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Soumettre Chantier spatial">
+<!ENTITY dialog.espionage_action "Soumettre actions d'espionnage hostile">
+<!ENTITY dialog.submib_phalanx "Soumettre rapports phalange">
+<!ENTITY dialog.submib_fmovement "Soumettre activités de flotte propres">
+<!ENTITY dialog.submib_short_cr "Soumettre RC court">
+<!ENTITY dialog.submib_player_message "Soumettre messages privé (activité)">
+<!ENTITY dialog.submib_message_content "Soumettre contenu messages privé">
+<!ENTITY dialog.check_btn "Vérifier">
+<!ENTITY dialog.own_player_id "Requête propre identification joueur OGame">
+<!ENTITY dialog.own_player_id_title "Désactiver si vous êtes deconnecté juste après avoir accédé à OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Clé de connexion">

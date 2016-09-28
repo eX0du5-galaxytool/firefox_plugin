@@ -1,0 +1,22 @@
+#GTPlugin-activate,#GTPlugin-options,#GTPlugin-reports {
+    width:120px;
+}
+
+#GTPlugin-status-label,#GTPlugin-status-view {
+	padding-top:2px;
+    color:blue;
+}
+
+.gt_label{
+	padding-top:7px;
+}
+
+.gt_label_uni_okay{
+	padding-top:7px;
+	color: green;
+}
+
+.gt_label_uni_not_okay{
+	padding-top:7px;
+	color: red;
+}

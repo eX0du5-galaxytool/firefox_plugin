@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxietool Toolbar">
+<!ENTITY toolbar.activate "Aktivieren">
+<!ENTITY toolbar.activate.t "Toolbar aktivieren">
+<!ENTITY toolbar.options "Optionen">
+<!ENTITY toolbar.options.t "Toolbar Optionen">
+<!ENTITY toolbar.reports "Spioberichte">
+<!ENTITY toolbar.statusLabel "Status:">
+<!ENTITY toolbar.statusInfo "nichts">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxietool Adressen">
+<!ENTITY dialog.tab2 "Plugin Einstellungen">
+<!ENTITY dialog.title "Galaxietool Firefox Plugin Optionen">
+<!ENTITY dialog.ogameurl "OGame Servername">
+<!ENTITY dialog.ogameuni "Universum">
+<!ENTITY dialog.galaxytoolurl "Galaxietool URL">
+<!ENTITY dialog.username "Nutzername">
+<!ENTITY dialog.password "Passwort">
+
+<!ENTITY dialog.autoreports "Automatisches Absenden von Spionagereports">
+<!ENTITY dialog.debug "Zeige Debuginformationen">
+<!ENTITY dialog.show_statuswindow "Zeige Statusfenster">
+<!ENTITY dialog.submib_galaxy "Übertrage Galaxieansicht">
+<!ENTITY dialog.submib_stats "Übertrage Spieler- und Allianzstatistiken">
+<!ENTITY dialog.submib_reports "Übertrage Spionageberichte">
+<!ENTITY dialog.submib_allypage "Übertrage Allianzmitgliederseite">
+<!ENTITY dialog.submib_buildings "Übertrage Gebäude">
+<!ENTITY dialog.submib_research "Übertrage Forschung">
+<!ENTITY dialog.submib_fleet "Übertrage Flotte">
+<!ENTITY dialog.submib_defense "Übertrage Verteidigung">
+
+<!ENTITY dialog.status_window "Statusfenster">
+<!ENTITY dialog.status_style "CSS Styles festlegen">
+<!ENTITY dialog.status_style_window "Fenster">
+<!ENTITY dialog.status_style_header "Kopfzeile">
+<!ENTITY dialog.status_style_results "Statusanzeige">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Allgemeine Daten">
+<!ENTITY dialog.add_tool "Neues Tool">
+<!ENTITY dialog.delete "Löschen">
+<!ENTITY dialog.name "Name">
+<!ENTITY dialog.uni_data "Universumsdaten">
+<!ENTITY dialog.own_data "Eigene Daten">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxietool Version">
+<!ENTITY dialog.submib_empire "Übertrage Imperiumsansicht">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Übertrage Schiffswerft">
+<!ENTITY dialog.espionage_action "Übertrage feindliche Spionageaktionen">
+<!ENTITY dialog.submib_phalanx "Übertrage Phalanxberichte">
+<!ENTITY dialog.submib_fmovement "Übertrage eigene Flottenbewegung">
+<!ENTITY dialog.submib_short_cr "Übertrage KB-Übersichten">
+<!ENTITY dialog.submib_player_message "Übertrage Spielernachrichten (Aktivität)">
+<!ENTITY dialog.submib_message_content "Übertrage auch den Inhalt von Spielernachrichten">
+<!ENTITY dialog.check_btn "Prüfe">
+<!ENTITY dialog.own_player_id "Eigene OGame Spieler ID ermitteln">
+<!ENTITY dialog.own_player_id_title "Deaktiviere diese Option, wenn du direkt nach dem Einloggen aus OGame ausgeloggt wirst">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Loginschlüssel">

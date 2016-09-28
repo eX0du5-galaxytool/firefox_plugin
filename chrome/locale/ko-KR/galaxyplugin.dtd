@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "겔럭시툴 툴바">
+<!ENTITY toolbar.activate "GTP 활성">
+<!ENTITY toolbar.activate.t "플러그인 작동">
+<!ENTITY toolbar.options "GTP 옵션">
+<!ENTITY toolbar.options.t "플러그인 옵션">
+<!ENTITY toolbar.reports "보고서 수집">
+<!ENTITY toolbar.statusLabel "상태:">
+<!ENTITY toolbar.statusInfo "nothing">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "서버 설정">
+<!ENTITY dialog.tab2 "플러그인 옵션">
+<!ENTITY dialog.title "겔툴 플러그인 옵션">
+<!ENTITY dialog.ogameurl "오게임 서버">
+<!ENTITY dialog.ogameuni "은하">
+<!ENTITY dialog.galaxytoolurl "겔툴 URL">
+<!ENTITY dialog.username "유저이름">
+<!ENTITY dialog.password "비밀번호">
+
+<!ENTITY dialog.autoreports "보고서 자동 제출">
+<!ENTITY dialog.debug "오류 정보 표시">
+<!ENTITY dialog.show_statuswindow "윈도우 창으로 상황 표시">
+<!ENTITY dialog.submib_galaxy "좌표 업데이트">
+<!ENTITY dialog.submib_stats "플레이어 및 동맹 통계">
+<!ENTITY dialog.submib_reports "보고서 제출">
+<!ENTITY dialog.submib_allypage "동맹 멤버 페이지">
+<!ENTITY dialog.submib_buildings "건물">
+<!ENTITY dialog.submib_research "연구">
+<!ENTITY dialog.submib_fleet "함대">
+<!ENTITY dialog.submib_defense "방어시설">
+
+<!ENTITY dialog.status_window "윈도우 표시">
+<!ENTITY dialog.status_style "Define CSS Styles">
+<!ENTITY dialog.status_style_window "Window">
+<!ENTITY dialog.status_style_header "Header line">
+<!ENTITY dialog.status_style_results "Status view">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "일반 자료">
+<!ENTITY dialog.add_tool "새로운 서버 추가">
+<!ENTITY dialog.delete "삭제">
+<!ENTITY dialog.name "서버명">
+<!ENTITY dialog.uni_data "일반 정보 제출">
+<!ENTITY dialog.own_data "개인 정보 제출">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "겔럭시툴 버전">
+<!ENTITY dialog.submib_empire "제국 보기 제출">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "쉽야드 제출">
+<!ENTITY dialog.espionage_action "정탐정보 제출">
+<!ENTITY dialog.submib_phalanx "밀집 정보 제출">
+<!ENTITY dialog.submib_fmovement "함대 현황 제출">
+<!ENTITY dialog.submib_short_cr "짧은 전투보고서 제출">
+<!ENTITY dialog.submib_player_message "플레이어 메시지 제출(접률체크)">
+<!ENTITY dialog.submib_message_content "플레이어가 보낸 메시지 제출">
+<!ENTITY dialog.check_btn "확인">
+<!ENTITY dialog.own_player_id "자신의 오게임 플레이어 ID를 요청">
+<!ENTITY dialog.own_player_id_title "Disable if you get logged out right after accessing OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "인증 키">

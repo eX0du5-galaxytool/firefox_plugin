@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "Aktivovat GTP">
+<!ENTITY toolbar.activate.t "Aktivovat Galaxytool Plugin">
+<!ENTITY toolbar.options "Nastavení GTP">
+<!ENTITY toolbar.options.t "Galaxytool Plugin-Nastavení">
+<!ENTITY toolbar.reports "Získat hlášení">
+<!ENTITY toolbar.statusLabel "Stav:">
+<!ENTITY toolbar.statusInfo "nic">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Plugin-Nastavení">
+<!ENTITY dialog.title "Galaxyplugin-Nastavení">
+<!ENTITY dialog.ogameurl "Název OGame serveru">
+<!ENTITY dialog.ogameuni "Vesmír">
+<!ENTITY dialog.galaxytoolurl "URL Galaxytoolu">
+<!ENTITY dialog.username "Uživatelské jméno">
+<!ENTITY dialog.password "Heslo">
+
+<!ENTITY dialog.autoreports "Potvrdit hlášení automaticky">
+<!ENTITY dialog.debug "Ukázat debug informace">
+<!ENTITY dialog.show_statuswindow "Ukázat okno se stavem">
+<!ENTITY dialog.submib_galaxy "Potvrdit přehled galaxie">
+<!ENTITY dialog.submib_stats "Potvrdit statistiky hráče a aliance">
+<!ENTITY dialog.submib_reports "Potvrdit hlášení">
+<!ENTITY dialog.submib_allypage "Potvrdit stránku se členy aliance">
+<!ENTITY dialog.submib_buildings "Potvrdit budovy">
+<!ENTITY dialog.submib_research "Potvrdit výzkum">
+<!ENTITY dialog.submib_fleet "Potvrdit letku">
+<!ENTITY dialog.submib_defense "Potvrdit obranu">
+
+<!ENTITY dialog.status_window "Okno stavu">
+<!ENTITY dialog.status_style "Definovat CSS styly">
+<!ENTITY dialog.status_style_window "Okno">
+<!ENTITY dialog.status_style_header "Záhlaví">
+<!ENTITY dialog.status_style_results "Vzhled stavu">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Obecná data">
+<!ENTITY dialog.add_tool "Přidat nový Galaxytool">
+<!ENTITY dialog.delete "Smazat">
+<!ENTITY dialog.name "Název">
+<!ENTITY dialog.uni_data "Informace o vesmíru">
+<!ENTITY dialog.own_data "Vlastní data">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Verze Galaxytool">
+<!ENTITY dialog.submib_empire "Odeslat pohled Impéria">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Odesílat hangár">
+<!ENTITY dialog.espionage_action "Odesílat nepřátelské špionáže">
+<!ENTITY dialog.submib_phalanx "Odesílat zprávy z falangy">
+<!ENTITY dialog.submib_fmovement "Odesílat vlastní pohyb letek">
+<!ENTITY dialog.submib_short_cr "Odesílat zkrácené BZ">
+<!ENTITY dialog.submib_player_message "Odesílat PM hráčů (aktivita)">
+<!ENTITY dialog.submib_message_content "Odesílat také obsah zpráv">
+<!ENTITY dialog.check_btn "Zkontrolovat">
+<!ENTITY dialog.own_player_id "Získat vlastní OGame ID hráče">
+<!ENTITY dialog.own_player_id_title "Vypněte pokud Vás OGame ihned odhlašuje">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Logon Key">

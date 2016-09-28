@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>{71bfcce7-421d-4042-95d4-a585a821cbca}</em:id>
+		<em:name>Galaxytoolbar</em:name>
+		<em:version>2.8.4</em:version>
+		<em:creator>Christian Lehmann</em:creator>
+		<!-- optional items -->
+		<em:developer>Jan Wedding</em:developer>
+		<em:contributor>DieMade</em:contributor>
+		<!-- created the new icon -->
+		<em:contributor>Christian Schultz</em:contributor>
+		<!-- translators -->
+		<em:translator>Warnon</em:translator>
+		<em:translator>iRIX</em:translator>
+		<em:translator>Vesselin Bontchev</em:translator>
+		<em:translator>Kamra Lint</em:translator>
+		<em:translator>MadMad</em:translator>
+		<em:translator>McLain</em:translator>
+		<em:translator>Tomaž Baš</em:translator>
+		<em:translator>Stănilă Denis Felix</em:translator>
+		<em:translator>Baklazhan</em:translator>
+		<em:translator>TrickMaster</em:translator>
+		<em:translator>stiler</em:translator>
+		<em:translator>Pyrex</em:translator>
+		<em:translator>Kayain Cüneyt aka KingKayain aka MichaelMyers</em:translator>
+		<em:translator>levend</em:translator>
+		<em:translator>Andrew_Ryan</em:translator>
+		<em:translator>rdet</em:translator>
+		<em:translator>SirAdams</em:translator>
+		<em:translator>mighty</em:translator>
+		<em:translator>Henrik Granholm</em:translator>
+		<em:translator>MaBoNi82</em:translator>
+		<em:translator>Trevize</em:translator>
+		<em:translator>Gul Damar</em:translator>
+		<em:translator>Spacey</em:translator>
+		<em:translator>DRSON</em:translator>
+		<em:translator>Aircrack</em:translator>
+		<em:translator>ViH</em:translator>
+		<em:translator>Poeta</em:translator>
+		<em:translator>costasc4vts</em:translator>
+		<em:translator>Taro</em:translator>
+		<em:translator>젤옹님</em:translator>
+		<em:translator>TarjaTheWitch</em:translator>
+		<em:translator>Loko</em:translator>
+		<em:translator>Vedran Brnjetic - underscore</em:translator>
+		<em:translator>ThePeace</em:translator>
+		<em:translator>Juha Kuitunen</em:translator>
+		<em:translator>Attila Pálfi</em:translator>
+		<em:translator>Štìpán Soukup</em:translator>
+		<em:translator>Brian Svendsen</em:translator>
+		<em:translator>Bob Le FOU 55</em:translator>
+		<em:translator>Mrtb</em:translator>
+		<em:translator>Aak</em:translator>
+		<em:translator>LightSeven</em:translator>
+		<em:translator>Grzegorz Lesniewski</em:translator>
+		<em:translator>Leandro Conde Trombini</em:translator>
+		<em:translator>Martim Neces</em:translator>
+		<em:translator>Mihail Klimanskiy</em:translator>
+		<em:translator>Alexander Bazhanov</em:translator>
+		<!-- translators_end -->
+		<em:homepageURL>http://www.galaxytool.eu</em:homepageURL>
+		<em:optionsURL>chrome://galaxyplugin/content/galaxyoptions2.xul</em:optionsURL>
+		<em:iconURL>chrome://galaxyplugin/skin/galaxyplugin_48.png</em:iconURL>
+		<em:icon64URL>chrome://galaxyplugin/skin/galaxyplugin_64.png</em:icon64URL>
+		<em:type>2</em:type> <!-- type=extension --> 
+		
+		<!-- Firefox -->
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+				<em:minVersion>14.*</em:minVersion>
+				<em:maxVersion>43.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+		
+		<!-- SeaMonkey -->
+		<em:targetApplication>
+		  <Description>
+			<em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
+			<em:minVersion>2.1</em:minVersion>
+			<em:maxVersion>2.18.*</em:maxVersion>
+		  </Description>
+		</em:targetApplication>
+		
+		<!-- some localizations -->
+		<em:localized>
+			<Description>
+				<em:locale>zh-CN</em:locale>
+				<em:description>用于OGame的星图工具.</em:description>
+			</Description>
+		</em:localized>
+		<em:localized>
+			<Description>
+				<em:locale>de-DE</em:locale>
+				<em:description>Ein Firefox-AddOn für das OGame Galaxytool.</em:description>
+			</Description>
+		</em:localized>
+		<em:description>A Firefox AddOn for the OGame Galaxytool.</em:description>
+	</Description>
+</RDF>

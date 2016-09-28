@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "Aktiviraj GTD">
+<!ENTITY toolbar.activate.t "Aktiviraj Galaxytool Dodatak">
+<!ENTITY toolbar.options "GTD Opcije">
+<!ENTITY toolbar.options.t "Opcije Galaxytool Dodatka">
+<!ENTITY toolbar.reports "Dohvati Izvještaje">
+<!ENTITY toolbar.statusLabel "Status:">
+<!ENTITY toolbar.statusInfo "ništa">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Opcije Dodatka">
+<!ENTITY dialog.title "Galaxyplugin Opcije">
+<!ENTITY dialog.ogameurl "OGame Naziv Servera">
+<!ENTITY dialog.ogameuni "Univerzum">
+<!ENTITY dialog.galaxytoolurl "Galaxytool URL">
+<!ENTITY dialog.username "Korisničko Ime">
+<!ENTITY dialog.password "Lozinka">
+
+<!ENTITY dialog.autoreports "Pošalji izvještaje automatski">
+<!ENTITY dialog.debug "Pokaži debug informacije">
+<!ENTITY dialog.show_statuswindow "Pokaži statusni prozor">
+<!ENTITY dialog.submib_galaxy "Pošalji pregled galaksije">
+<!ENTITY dialog.submib_stats "Pošalji statistike igrača i saveza">
+<!ENTITY dialog.submib_reports "Pošalji izvještaje">
+<!ENTITY dialog.submib_allypage "Pošalji stranicu članova saveza">
+<!ENTITY dialog.submib_buildings "Pošalji zgrade">
+<!ENTITY dialog.submib_research "Pošalji istraživanja">
+<!ENTITY dialog.submib_fleet "Pošalji flotu">
+<!ENTITY dialog.submib_defense "Pošalji obranu">
+ 
+<!ENTITY dialog.status_window "Prozor Statusa">
+<!ENTITY dialog.status_style "Definiraj CSS Stilove">
+<!ENTITY dialog.status_style_window "Prozor">
+<!ENTITY dialog.status_style_header "Zaglavlje">
+<!ENTITY dialog.status_style_results "Pregled statusa">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Osnovni Podaci">
+<!ENTITY dialog.add_tool "Dodaj novi alat">
+<!ENTITY dialog.delete "Obriši">
+<!ENTITY dialog.name "Naziv">
+<!ENTITY dialog.uni_data "Podaci univerzuma">
+<!ENTITY dialog.own_data "Vlastiti podaci">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool Verzija">
+<!ENTITY dialog.submib_empire "Pošalji pogled Imperije">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Pošalji Tvornicu Brodova">
+<!ENTITY dialog.espionage_action "Pošalji neprijateljske akcije špijunaže">
+<!ENTITY dialog.submib_phalanx "Pošalji poglede falange">
+<!ENTITY dialog.submib_fmovement "Pošalji kretanje vlastite flote">
+<!ENTITY dialog.submib_short_cr "Pošalji kratki IoB">
+<!ENTITY dialog.submib_player_message "Pošalji poruke igrača (aktivnost)">
+<!ENTITY dialog.submib_message_content "Pošalji također i sadržaj poruka igrača">
+<!ENTITY dialog.check_btn "Provjeri">
+<!ENTITY dialog.own_player_id "Zatraži vlastiti OGame ID igrača">
+<!ENTITY dialog.own_player_id_title "Onemogući ako te odlogira odmah nakon pristupa igri">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Pristupni ključ">

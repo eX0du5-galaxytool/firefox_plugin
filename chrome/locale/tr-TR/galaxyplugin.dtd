@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool araç çubuğu">
+<!ENTITY toolbar.activate "Araç çubuğunu etkinleştirmek">
+<!ENTITY toolbar.activate.t "Araç çubuğunu etkinleşti">
+<!ENTITY toolbar.options "Seçenekler">
+<!ENTITY toolbar.options.t "Araç çubuğu seçenekleri">
+<!ENTITY toolbar.reports "Casusluk raporu  ">
+<!ENTITY toolbar.statusLabel "Durum:">
+<!ENTITY toolbar.statusInfo "yok">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxietool Adressleri">
+<!ENTITY dialog.tab2 "Eklenti Ayarlar">
+<!ENTITY dialog.title "Galaxietool Firefox eklenti seçenekleri">
+<!ENTITY dialog.ogameurl "OGame sunucu ismi">
+<!ENTITY dialog.ogameuni "Evren">
+<!ENTITY dialog.galaxytoolurl "Araç çubuğu URL">
+<!ENTITY dialog.username "Kulanıcı adı">
+<!ENTITY dialog.password "Şifre">
+
+<!ENTITY dialog.autoreports "Casusluk raporun otomatik yollanması">
+<!ENTITY dialog.debug " Debug bilgilerini göster">
+<!ENTITY dialog.show_statuswindow "Durum penceresini göster">
+<!ENTITY dialog.submib_galaxy "Evren görüntüsü Transferi">
+<!ENTITY dialog.submib_stats "Oyuncu ve ittifak istatistik Transferi">
+<!ENTITY dialog.submib_reports "Casus raporu transferi">
+<!ENTITY dialog.submib_allypage "İttifak üye sayfası transferi">
+<!ENTITY dialog.submib_buildings "Tesisler transferi">
+<!ENTITY dialog.submib_research "Araştırma transferi">
+<!ENTITY dialog.submib_fleet "Filo transferi">
+<!ENTITY dialog.submib_defense "Savunma transferi">
+
+<!ENTITY dialog.status_window "durum Penceresi">
+<!ENTITY dialog.status_style "CSS Styles set">
+<!ENTITY dialog.status_style_window "Pencere">
+<!ENTITY dialog.status_style_header "Baslık yazısı">
+<!ENTITY dialog.status_style_results "Durum göstergesi">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Genel Bilgiler">
+<!ENTITY dialog.add_tool "Yeni araç">
+<!ENTITY dialog.delete "Silmek">
+<!ENTITY dialog.name "İsim"> 
+<!ENTITY dialog.uni_data "Evren bilgileri">
+<!ENTITY dialog.own_data "Özel bilgiler">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool versiyon">
+<!ENTITY dialog.submib_empire "İmparatorluk görüntüsü transferi">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Tersane transferi">
+<!ENTITY dialog.espionage_action "Düşman casusluk Transferi">
+<!ENTITY dialog.submib_phalanx "Radar istasyonu rapor transferi">
+<!ENTITY dialog.submib_fmovement "Kendi filo hareketleri transferi">
+<!ENTITY dialog.submib_short_cr "Savaş raporları transferi">
+<!ENTITY dialog.submib_player_message "Oyuncu mesajları  transferi (Etkinlik)">
+<!ENTITY dialog.submib_message_content "Oyuncu mesajları içerik transferi">
+<!ENTITY dialog.check_btn "Kontrol">
+<!ENTITY dialog.own_player_id "Özel OGame oyuncu ID belirlenmesi">
+<!ENTITY dialog.own_player_id_title "Eğer Ogame ye giriş yapıp hemen sistem seni dışarı atarsa bu seçeneği Devre dışı bırak">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "giriş şifresi">

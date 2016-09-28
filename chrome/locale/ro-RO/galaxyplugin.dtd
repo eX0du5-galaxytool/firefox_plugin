@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "Activeaza GTP">
+<!ENTITY toolbar.activate.t "Activeaza Pluginul Galaxytool">
+<!ENTITY toolbar.options "Optiuni GTP">
+<!ENTITY toolbar.options.t "Optiunile Pluginului Galaxytool">
+<!ENTITY toolbar.reports "Ia rapoarte">
+<!ENTITY toolbar.statusLabel "Status:">
+<!ENTITY toolbar.statusInfo "nimic">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytool-uri">
+<!ENTITY dialog.tab2 "Optiuni Plugin">
+<!ENTITY dialog.title "Optiuni Galaxyplugin">
+<!ENTITY dialog.ogameurl "Nume Server OGame">
+<!ENTITY dialog.ogameuni "Univers">
+<!ENTITY dialog.galaxytoolurl "URL Galaxytool">
+<!ENTITY dialog.username "Utilizator">
+<!ENTITY dialog.password "Parola">
+
+<!ENTITY dialog.autoreports "Introdu rapoarte automat">
+<!ENTITY dialog.debug "Arata informatiile pentru debug">
+<!ENTITY dialog.show_statuswindow "Arata fereastra de status">
+<!ENTITY dialog.submib_galaxy "Introdu vedere galaxie">
+<!ENTITY dialog.submib_stats "Introdu statisticile pentru jucator si alianta">
+<!ENTITY dialog.submib_reports "Introdu rapoarte">
+<!ENTITY dialog.submib_allypage "Introdu pagina aliantei membrului">
+<!ENTITY dialog.submib_buildings "Introdu cladiri">
+<!ENTITY dialog.submib_research "Introdu cercetari">
+<!ENTITY dialog.submib_fleet "Introdu flota">
+<!ENTITY dialog.submib_defense "Introdu aparare">
+
+<!ENTITY dialog.status_window "Fereastra de status">
+<!ENTITY dialog.status_style "Defineste Stilurile CSS">
+<!ENTITY dialog.status_style_window "Fereastra">
+<!ENTITY dialog.status_style_header "Linia Antetului">
+<!ENTITY dialog.status_style_results "Vederea statusului">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Informatii Generale">
+<!ENTITY dialog.add_tool "Adauga unealta noua">
+<!ENTITY dialog.delete "Sterge">
+<!ENTITY dialog.name "Nume">
+<!ENTITY dialog.uni_data "Informatiile universului">
+<!ENTITY dialog.own_data "Date proprii">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Versiunea Galaxytool">
+<!ENTITY dialog.submib_empire "Introdu Vederea Imperiului">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Introdu santier naval">
+<!ENTITY dialog.espionage_action "Introdu actiune de spionare ostila">
+<!ENTITY dialog.submib_phalanx "Introdu rapoarte phalanx">
+<!ENTITY dialog.submib_fmovement "Introdu propia miscare a flotei">
+<!ENTITY dialog.submib_short_cr "Introdu CR-uri scurte">
+<!ENTITY dialog.submib_player_message "Introdu mesajele jucatorului (activitate)">
+<!ENTITY dialog.submib_message_content "Introdu de asemenea continutul mesajelor jucatorului">
+<!ENTITY dialog.check_btn "Verifica">
+<!ENTITY dialog.own_player_id "Cere ID propriu de jucator OGame">
+<!ENTITY dialog.own_player_id_title "Dezactivati daca sunteti delogat imediat dupa ce accesati OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Cheie de Logare">

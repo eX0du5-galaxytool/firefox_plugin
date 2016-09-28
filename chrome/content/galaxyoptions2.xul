@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://galaxyplugin/skin/classic/galaxyplugin.css" type="text/css"?>
+<!DOCTYPE dialog SYSTEM "chrome://galaxyplugin/locale/galaxyplugin.dtd">
+
+<dialog xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul" title="&dialog.title;" id="GTPlugin-config" buttons="accept, cancel" ondialogaccept="return galaxytoolbar.GTPlugin_options2.saveValues();"
+	onload="galaxytoolbar.GTPlugin_options2.initWindow();" ondialogcancel="return galaxytoolbar.GTPlugin_options2.cancel()" orient="vertical" flex="1">
+	
+	<script type="application/x-javascript" src="chrome://galaxyplugin/content/galaxystorage.js" />
+	<script type="application/x-javascript" src="chrome://galaxyplugin/content/general.js" />
+	<script type="application/x-javascript" src="chrome://galaxyplugin/content/galaxyoptions2.js" />
+	
+	<stringbundleset id="stringbundleset">
+		<stringbundle id="galaxytoolbarStrings" src="chrome://galaxyplugin/locale/galaxyplugin.properties"/>
+	</stringbundleset>
+	
+	<tabbox id="tabbox" flex="1">
+		<tabs id="tabs">
+			<tab id="GTPlugin-options" label="&dialog.tab2;" />
+			<tab id="GTPlugin-galaxytool1" label="&dialog.tab1;" />
+		</tabs>
+		<tabpanels id="tabpanels" flex="1">
+			<tabpanel orient="vertical">
+				<label value="&dialog.status_window;" />
+				<groupbox style="width:660px">
+					<caption label="&dialog.status_style;" />
+						<vbox>
+							<hbox align="center">
+								<label class="gt_label" value="&dialog.status_style_window;" style="width:120px"/>
+								<textbox id="GTPlugin-status_style_window" style="width: 400px;" onchange="galaxytoolbar.GTPlugin_options2.on_general_settings_changed();"/>
+							</hbox>
+							<hbox align="center">
+								<label class="gt_label" value="&dialog.status_style_window; - iframe" style="width:120px"/>
+								<textbox id="GTPlugin-status_style_window_iframe" style="width: 400px;" onchange="galaxytoolbar.GTPlugin_options2.on_general_settings_changed();"/>
+							</hbox>
+							<hbox align="center">
+								<label class="gt_label" value="&dialog.status_style_header;" style="width:120px"/>
+								<textbox id="GTPlugin-status_style_header" style="width: 400px;" onchange="galaxytoolbar.GTPlugin_options2.on_general_settings_changed();"/>
+							</hbox>
+							<hbox align="center">
+								<label class="gt_label" value="&dialog.status_style_results;" style="width:120px"/>
+								<textbox id="GTPlugin-status_style_results" style="width: 400px;" onchange="galaxytoolbar.GTPlugin_options2.on_general_settings_changed();"/>
+							</hbox>
+						</vbox>
+				</groupbox>
+				<groupbox style="width:660px">
+					<caption label="&dialog.general_data;" />
+					
+					<vbox>
+						<hbox>
+							<checkbox id="GTPlugin-show_statuswindow" label="&dialog.show_statuswindow;" checked="true" oncommand="galaxytoolbar.GTPlugin_options2.on_general_settings_changed();"/>
+						</hbox>
+						<hbox>
+							<checkbox id="GTPlugin-debug" label="&dialog.debug;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_general_settings_changed();"/>
+						</hbox>
+					</vbox>
+				</groupbox>
+			</tabpanel>
+			<tabpanel orient="vertical">
+				<vbox>
+					<hbox align="center">
+						<menulist id="GTPlugin-tool_list" label="Galaxytools" onselect="galaxytoolbar.GTPlugin_options2.load_selected_tool(this)" style="width:300px;">
+							<menupopup>
+							
+							</menupopup>
+						</menulist>
+						<button id="GTPlugin-addbtn" label="&dialog.add_tool;" oncommand="galaxytoolbar.GTPlugin_options2.add_new_tool()"/>
+						<button id="GTPlugin-delbtn" label="&dialog.delete;" oncommand="galaxytoolbar.GTPlugin_options2.delete_tool()"/>
+					</hbox>
+				</vbox>
+				<groupbox>
+					<caption id="GTPlugin-caption" label="1" />
+					<vbox>
+						<hbox align="center">
+							<label class="gt_label" value="&dialog.name;" style="width:150px"/>
+							<textbox id="GTPlugin-name" value="" style="width: 250px;" onchange="galaxytoolbar.GTPlugin_options2.on_name_changed();" />
+							<checkbox id="GTPlugin-isogeneral" label="oGeneral (udp)" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_isog_changed();" />
+						</hbox>
+						<hbox align="center">
+							<label class="gt_label" value="&dialog.ogameurl;" style="width:150px"/>
+							<textbox id="GTPlugin-ogameurl" style="width: 250px;" oninput="galaxytoolbar.GTPlugin_options2.on_ogame_url_input();" onchange="galaxytoolbar.GTPlugin_options2.on_ogame_url_changed();" />
+							<label class="gt_label" value="&dialog.ogameuni;" />
+							<label class="gt_label" id="GTPlugin-uni"/>
+						</hbox>
+						<hbox id="GTPlugin-url-hbox" align="center">
+							<label class="gt_label" value="&dialog.galaxytoolurl;" style="width:150px"/>
+							<textbox id="GTPlugin-url" style="width:250px;" onchange="galaxytoolbar.GTPlugin_options2.on_galaxytool_url_changed();" />
+							<label class="gt_label" value="&dialog.galaxytool_version;" />
+							<label class="gt_label" id="GTPlugin-version"/>
+							<button id="GTPlugin-checkbtn" label="&dialog.check_btn;" oncommand="galaxytoolbar.GTPlugin_options2.check_connection()"/>
+						</hbox>
+						<hbox id="GTPlugin-token-hbox" align="center">
+							<label class="gt_label" value="&dialog.token;" style="width:150px"/>
+							<textbox id="GTPlugin-token" maxlength="36" style="width: 250px;" onchange="galaxytoolbar.GTPlugin_options2.on_token_changed();" />
+						</hbox>
+						<hbox id="GTPlugin-username-hbox" align="center">
+							<label class="gt_label" value="&dialog.username;" style="width:150px"/>
+							<textbox id="GTPlugin-username" maxlength="20" style="width: 250px;" onchange="galaxytoolbar.GTPlugin_options2.on_change();" />
+						</hbox>
+						<hbox id="GTPlugin-password-hbox" align="center">
+							<label class="gt_label" value="&dialog.password;" style="width:150px"/>
+							<textbox id="GTPlugin-password" type="password" maxlength="32" style="width: 250px;" onchange="galaxytoolbar.GTPlugin_options2.on_change();" />
+						</hbox>
+						<hbox id="GTPlugin-ogeneralip-hbox" align="center" style="display:none">
+							<label class="gt_label" value="oGeneral IP" style="width:150px"/>
+							<textbox id="GTPlugin-ogeneralip" maxlength="32" style="width: 250px;" onchange="galaxytoolbar.GTPlugin_options2.on_change();" />
+						</hbox>
+						<hbox id="GTPlugin-ogeneralport-hbox" align="center" style="display:none">
+							<label class="gt_label" value="oGeneral Port" style="width:150px"/>
+							<textbox id="GTPlugin-ogeneralport" maxlength="32" style="width: 250px;" onchange="galaxytoolbar.GTPlugin_options2.on_change();" />
+						</hbox>
+					</vbox>
+				</groupbox>
+				<hbox id="GTPlugin-whattosend-hbox">
+					<vbox style="width:280px">
+						<hbox>
+							<groupbox>
+								<caption label="&dialog.uni_data;" />
+								<vbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_galaxy" label="&dialog.submib_galaxy;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_stats" label="&dialog.submib_stats;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_reports" label="&dialog.submib_reports;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_allypage" label="&dialog.submib_allypage;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_phalanx" label="&dialog.submib_phalanx;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_espionage_action" label="&dialog.espionage_action;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_short_cr" label="&dialog.submib_short_cr;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_player_message" label="&dialog.submib_player_message;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_player_message_content" label="&dialog.submib_message_content;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+								</vbox>
+							</groupbox>
+						</hbox>
+					</vbox>
+					<vbox style="overflow:auto" flex="1">	
+						<hbox>
+							<groupbox style="width:280px">
+								<caption label="&dialog.own_data;" />
+								<vbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_buildings" label="&dialog.submib_buildings;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_research" label="&dialog.submib_research;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_defense" label="&dialog.submib_defense;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_shipyard" label="&dialog.submib_shipyard;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_fleet" label="&dialog.submib_fleet;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_empire" label="&dialog.submib_empire;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+									<hbox>
+										<checkbox id="GTPlugin-submit_fmovement" label="&dialog.submib_fmovement;" checked="false" oncommand="galaxytoolbar.GTPlugin_options2.on_change();" />
+									</hbox>
+								</vbox>
+							</groupbox>
+						</hbox>
+					</vbox>
+				</hbox>
+			</tabpanel>
+		</tabpanels>
+	</tabbox>
+</dialog>

@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "激活GTP">
+<!ENTITY toolbar.activate.t "激活Galaxytool插件">
+<!ENTITY toolbar.options "GTP选项">
+<!ENTITY toolbar.options.t "Galaxytool 插件选项">
+<!ENTITY toolbar.reports "获取报告">
+<!ENTITY toolbar.statusLabel "状态:">
+<!ENTITY toolbar.statusInfo "无结果">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "插件选项">
+<!ENTITY dialog.title "Galaxyplugin 选项">
+<!ENTITY dialog.ogameurl "OGame 服务器名称">
+<!ENTITY dialog.ogameuni "宇宙">
+<!ENTITY dialog.galaxytoolurl "Galaxytool URL">
+<!ENTITY dialog.username "用户名">
+<!ENTITY dialog.password "密码">
+
+<!ENTITY dialog.autoreports "自动提交报告">
+<!ENTITY dialog.debug "显示调试信息">
+<!ENTITY dialog.show_statuswindow "显示状态 窗口">
+<!ENTITY dialog.submib_galaxy "提交星图">
+<!ENTITY dialog.submib_stats "提交玩家和联盟排名统计">
+<!ENTITY dialog.submib_reports "提交间谍报告">
+<!ENTITY dialog.submib_allypage "提交联盟成员页">
+<!ENTITY dialog.submib_buildings "提交建筑情况">
+<!ENTITY dialog.submib_research "提交科技情况">
+<!ENTITY dialog.submib_fleet "提交舰队情况">
+<!ENTITY dialog.submib_defense "提交防御情况">
+
+<!ENTITY dialog.status_window "状态窗口">
+<!ENTITY dialog.status_style "定义CSS Styles">
+<!ENTITY dialog.status_style_window "窗口">
+<!ENTITY dialog.status_style_header "标头">
+<!ENTITY dialog.status_style_results "状态结果">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "一般数据">
+<!ENTITY dialog.add_tool "添加新宇宙">
+<!ENTITY dialog.delete "删除">
+<!ENTITY dialog.name "名称">
+<!ENTITY dialog.uni_data "宇宙数据">
+<!ENTITY dialog.own_data "自身数据">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool版本">
+<!ENTITY dialog.submib_empire "提交帝国视图">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "提交造船厂信息">
+<!ENTITY dialog.espionage_action "提交被探测动作">
+<!ENTITY dialog.submib_phalanx "提交感应阵报告">
+<!ENTITY dialog.submib_fmovement "提交自己的舰队移动情况">
+<!ENTITY dialog.submib_short_cr "提交短的战斗报告">
+<!ENTITY dialog.submib_player_message "提交 玩家消息(活跃状况)">
+<!ENTITY dialog.submib_message_content "同时提交玩家消息内容">
+<!ENTITY dialog.check_btn "检测">
+<!ENTITY dialog.own_player_id "Request own OGame player ID">
+<!ENTITY dialog.own_player_id_title "Disable if you get logged out right after accessing OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "登录密钥">

@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "Activeer GTP">
+<!ENTITY toolbar.activate.t "Activeer Galaxytool Plugin">
+<!ENTITY toolbar.options "GTP Opties">
+<!ENTITY toolbar.options.t "Galaxytool Plugin Opties">
+<!ENTITY toolbar.reports "Verkrijg rapporten">
+<!ENTITY toolbar.statusLabel "Status:">
+<!ENTITY toolbar.statusInfo "niets">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Plugin Opties">
+<!ENTITY dialog.title "Galaxyplugin Opties">
+<!ENTITY dialog.ogameurl "OGame Servernaam">
+<!ENTITY dialog.ogameuni "Universum">
+<!ENTITY dialog.galaxytoolurl "Galaxytool URL">
+<!ENTITY dialog.username "Gebruikersnaam">
+<!ENTITY dialog.password "Wachtwoord">
+
+<!ENTITY dialog.autoreports "Automatisch verzenden van rapporten.">
+<!ENTITY dialog.debug "Toon debug informatie.">
+<!ENTITY dialog.show_statuswindow "Toon status venster">
+<!ENTITY dialog.submib_galaxy "Verzend Galaxy overzicht">
+<!ENTITY dialog.submib_stats "Verzend Speler en Alliantie statistieken">
+<!ENTITY dialog.submib_reports "Verzend Spionagerapporten">
+<!ENTITY dialog.submib_allypage "Verzend Alliantie ledenpagina">
+<!ENTITY dialog.submib_buildings "Verzend eigen gebouwen">
+<!ENTITY dialog.submib_research "Verzend eigen onderzoek">
+<!ENTITY dialog.submib_fleet "Verzend eigen vloot">
+<!ENTITY dialog.submib_defense "Verzend eigen verdediging">
+
+<!ENTITY dialog.status_window "Status Venster Opties:">
+<!ENTITY dialog.status_style "Bewerk CSS Stijl">
+<!ENTITY dialog.status_style_window "Venster">
+<!ENTITY dialog.status_style_header "Header regel">
+<!ENTITY dialog.status_style_results "Status overzicht">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Algemene gegevens">
+<!ENTITY dialog.add_tool "Voeg nieuwe tool toe">
+<!ENTITY dialog.delete "Verwijderen">
+<!ENTITY dialog.name "Naam">
+<!ENTITY dialog.uni_data "Universum gegevens">
+<!ENTITY dialog.own_data "Eigen gegevens">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool Versie">
+<!ENTITY dialog.submib_empire "Verzend eigen Koninkrijk-Overzicht">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Verstuur werf">
+<!ENTITY dialog.espionage_action "Doorgeven vijandige spionage acties">
+<!ENTITY dialog.submib_phalanx "Verstuur phalanx repporten">
+<!ENTITY dialog.submib_fmovement "Verstuur eigen vloot beweging">
+<!ENTITY dialog.submib_short_cr "Korte gevechtsrapporten doorgeven">
+<!ENTITY dialog.submib_player_message "Doorgeven privé berichten (activiteit)">
+<!ENTITY dialog.submib_message_content "Doorgeven inhoud van privé berichten">
+<!ENTITY dialog.check_btn "Nakijken">
+<!ENTITY dialog.own_player_id "Opvragen eigen OGame speler ID">
+<!ENTITY dialog.own_player_id_title "Uitschakelen als men nadien uitgelogd wordt bij het opstarten van OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Verificatie sleutel">

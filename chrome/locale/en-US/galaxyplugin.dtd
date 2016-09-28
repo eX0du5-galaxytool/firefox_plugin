@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "Activate GTP">
+<!ENTITY toolbar.activate.t "Activate Galaxytool Plugin">
+<!ENTITY toolbar.options "GTP Options">
+<!ENTITY toolbar.options.t "Galaxytool Plugin Options">
+<!ENTITY toolbar.reports "Get Reports">
+<!ENTITY toolbar.statusLabel "Status:">
+<!ENTITY toolbar.statusInfo "nothing">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Plugin Options">
+<!ENTITY dialog.title "Galaxyplugin Options">
+<!ENTITY dialog.ogameurl "OGame Servername">
+<!ENTITY dialog.ogameuni "Universe">
+<!ENTITY dialog.galaxytoolurl "Galaxytool URL">
+<!ENTITY dialog.username "Username">
+<!ENTITY dialog.password "Password">
+
+<!ENTITY dialog.autoreports "Submit reports automatically">
+<!ENTITY dialog.debug "Show debug information">
+<!ENTITY dialog.show_statuswindow "Show status window">
+<!ENTITY dialog.submib_galaxy "Submit galaxyview">
+<!ENTITY dialog.submib_stats "Submit player and alliance statistics">
+<!ENTITY dialog.submib_reports "Submit reports">
+<!ENTITY dialog.submib_allypage "Submit alliance member page">
+<!ENTITY dialog.submib_buildings "Submit buildings">
+<!ENTITY dialog.submib_research "Submit research">
+<!ENTITY dialog.submib_fleet "Submit fleet">
+<!ENTITY dialog.submib_defense "Submit defense">
+
+<!ENTITY dialog.status_window "Status window">
+<!ENTITY dialog.status_style "Define CSS Styles">
+<!ENTITY dialog.status_style_window "Window">
+<!ENTITY dialog.status_style_header "Header line">
+<!ENTITY dialog.status_style_results "Status view">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "General Data">
+<!ENTITY dialog.add_tool "Add new tool">
+<!ENTITY dialog.delete "Delete">
+<!ENTITY dialog.name "Name">
+<!ENTITY dialog.uni_data "Universe data">
+<!ENTITY dialog.own_data "Own data">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool Version">
+<!ENTITY dialog.submib_empire "Submit Empire View">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Submit shipyard">
+<!ENTITY dialog.espionage_action "Submit hostile espionage actions">
+<!ENTITY dialog.submib_phalanx "Submit phalanx reports">
+<!ENTITY dialog.submib_fmovement "Submit own fleet movement">
+<!ENTITY dialog.submib_short_cr "Submit short CRs">
+<!ENTITY dialog.submib_player_message "Submit player messages (activity)">
+<!ENTITY dialog.submib_message_content "Submit also the contents of player messages">
+<!ENTITY dialog.check_btn "Check">
+<!ENTITY dialog.own_player_id "Request own OGame player ID">
+<!ENTITY dialog.own_player_id_title "Disable if you get logged out right after accessing OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Logon Key">

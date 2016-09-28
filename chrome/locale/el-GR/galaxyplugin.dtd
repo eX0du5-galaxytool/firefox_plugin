@@ -1,0 +1,64 @@
+﻿<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "Ενεργοποίησε τη GTP">
+<!ENTITY toolbar.activate.t "Ενεργοποίησε το Galaxytool Plugin">
+<!ENTITY toolbar.options "Επιλογές της GTP">
+<!ENTITY toolbar.options.t "Επιλογές του Galaxytool Plugin">
+<!ENTITY toolbar.reports "Πάρε τις Αναφορές">
+<!ENTITY toolbar.statusLabel "Κατάσταση:">
+<!ENTITY toolbar.statusInfo "τίποτα">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Επιλογές του Plugin">
+<!ENTITY dialog.title "Επιλογές του Galaxytool Plugin">
+<!ENTITY dialog.ogameurl "Όνομα Server OGame">
+<!ENTITY dialog.ogameuni "Σύμπαν">
+<!ENTITY dialog.galaxytoolurl "Galaxytool URL">
+<!ENTITY dialog.username "Όνομα χρήστη">
+<!ENTITY dialog.password "Συνθηματικό">
+
+<!ENTITY dialog.autoreports "Υπέβαλε τις αναφορές αυτόματα">
+<!ENTITY dialog.debug "Δείξτε τις πληροφορίες διόρθωσης">
+<!ENTITY dialog.show_statuswindow "Δείξε το παράθυρο κατάστασης">
+<!ENTITY dialog.submib_galaxy "Υπέβαλε γαλαξία">
+<!ENTITY dialog.submib_stats "Υπέβαλε στατιστικά παίκτη κ συμμαχίας">
+<!ENTITY dialog.submib_reports "Υπέβαλε αναφορές">
+<!ENTITY dialog.submib_allypage "Υπέβαλε τη σελίδα μελών συμμαχίας">
+<!ENTITY dialog.submib_buildings "Υπέβαλε τα κτήρια">
+<!ENTITY dialog.submib_research "Υπέβαλε την έρευνα">
+<!ENTITY dialog.submib_fleet "Υπέβαλε το στόλο">
+<!ENTITY dialog.submib_defense "Υπέβαλε την άμυνα">
+
+<!ENTITY dialog.status_window "Παράθυρο κατάστασης">
+<!ENTITY dialog.status_style "Καθόρισε τα στυλ CSS">
+<!ENTITY dialog.status_style_window "Παράθυρο">
+<!ENTITY dialog.status_style_header "Γραμμή γραφής">
+<!ENTITY dialog.status_style_results "Όψη κατάστασης">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Γενικά δεδομένα">
+<!ENTITY dialog.add_tool "Πρόσθεσε νέο εργαλείο">
+<!ENTITY dialog.delete "Διαγραφή">
+<!ENTITY dialog.name "Όνομα">
+<!ENTITY dialog.uni_data "Δεδομένα Σύμπαντος">
+<!ENTITY dialog.own_data "Προσωπικά Δεδομένα">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool Version">
+<!ENTITY dialog.submib_empire "Υπέβαλε όψη Αυτοκρατορίας">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Υπέβαλε ναυπηγείο">
+<!ENTITY dialog.espionage_action "Υπέβαλε εχθρικές πράξεις κατασκοπείας">
+<!ENTITY dialog.submib_phalanx "Υπέβαλε αναφορές φάλαγγας">
+<!ENTITY dialog.submib_fmovement "Υπέβαλε τις δικές σου κινήσεις στόλου">
+<!ENTITY dialog.submib_short_cr "Υπέβαλε μικρές CRs">
+<!ENTITY dialog.submib_player_message "Υπέβαλε μηνύματα παίκτη (δραστηριότητα)">
+<!ENTITY dialog.submib_message_content "Υπέβαλε επίσης το περιεχόμενο από τα μηνύματα παίκτη">
+<!ENTITY dialog.check_btn "Έλεγχος">
+<!ENTITY dialog.own_player_id "Ζήτησε το δικό σου ID παίκτη OGame">
+<!ENTITY dialog.own_player_id_title "Απενεργοποίησε εάν αποσυνδεθείτε αμέσως μόλις αποκτήσετε πρόσβαση στο OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Κλειδί Εισόδου">

@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "Aktiver GTP">
+<!ENTITY toolbar.activate.t "Aktiver Galaxytool Plugin">
+<!ENTITY toolbar.options "GTP Indstillinger">
+<!ENTITY toolbar.options.t "Galaxytool Plugin Indstillinger">
+<!ENTITY toolbar.reports "Overfør Rapporter">
+<!ENTITY toolbar.statusLabel "Status:">
+<!ENTITY toolbar.statusInfo "intet">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytools">
+<!ENTITY dialog.tab2 "Plugin-indstillinger">
+<!ENTITY dialog.title "Galaxyplugin Indstillinger">
+<!ENTITY dialog.ogameurl "OGame-Univers Servernavn">
+<!ENTITY dialog.ogameuni "Univers">
+<!ENTITY dialog.galaxytoolurl "Galaxytool URL">
+<!ENTITY dialog.username "Brugernavn">
+<!ENTITY dialog.password "Kodeord">
+
+<!ENTITY dialog.autoreports "Upload rapporter automatisk">
+<!ENTITY dialog.debug "Vis debug-information">
+<!ENTITY dialog.show_statuswindow "Vis statusinfo">
+<!ENTITY dialog.submib_galaxy "Upload GalaxyView">
+<!ENTITY dialog.submib_stats "Upload spiller- og ally-statistik">
+<!ENTITY dialog.submib_reports "Upload rapporter">
+<!ENTITY dialog.submib_allypage "Upload alliance-medlemssiden">
+<!ENTITY dialog.submib_buildings "Upload bygninger">
+<!ENTITY dialog.submib_research "Upload forskning">
+<!ENTITY dialog.submib_fleet "Upload flåde">
+<!ENTITY dialog.submib_defense "Upload forsvar">
+
+<!ENTITY dialog.status_window "Status info">
+<!ENTITY dialog.status_style "Definer CSS Styles">
+<!ENTITY dialog.status_style_window "Vindue">
+<!ENTITY dialog.status_style_header "Overskrift">
+<!ENTITY dialog.status_style_results "Status">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Generelle Data">
+<!ENTITY dialog.add_tool "Tilføj ny">
+<!ENTITY dialog.delete "Slet">
+<!ENTITY dialog.name "Navn">
+<!ENTITY dialog.uni_data "Universdata">
+<!ENTITY dialog.own_data "Egne data">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool Version">
+<!ENTITY dialog.submib_empire "Indsend imperium">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Upload skibsværft">
+<!ENTITY dialog.espionage_action "Upload fjendtlige spionageaktioner">
+<!ENTITY dialog.submib_phalanx "Upload phalanx rapporter">
+<!ENTITY dialog.submib_fmovement "Upload egne flådebevægelser">
+<!ENTITY dialog.submib_short_cr "Upload korte kamprapporter">
+<!ENTITY dialog.submib_player_message "Upload spillermeddelser (aktivitet)">
+<!ENTITY dialog.submib_message_content "Upload indhold af spillermeddelser">
+<!ENTITY dialog.check_btn "Check">
+<!ENTITY dialog.own_player_id "Anmod om eget OGame spiller ID">
+<!ENTITY dialog.own_player_id_title "Deaktiver hvis du bliver logget ud lige efter at du er logget på OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Logon Key">

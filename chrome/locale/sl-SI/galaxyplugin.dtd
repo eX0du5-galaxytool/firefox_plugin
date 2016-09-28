@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Dodatek">
+<!ENTITY toolbar.activate "Omogoči GTP">
+<!ENTITY toolbar.activate.t "Omogoči Galaxytool Plugin">
+<!ENTITY toolbar.options "GTP Nastavitve">
+<!ENTITY toolbar.options.t "Galaxytool Plugin Nastavitve">
+<!ENTITY toolbar.reports "Pridobi poročila">
+<!ENTITY toolbar.statusLabel "Stanje:">
+<!ENTITY toolbar.statusInfo "nič">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytool">
+<!ENTITY dialog.tab2 "Plugin Nastavitve">
+<!ENTITY dialog.title "Galaxyplugin Nastavitve">
+<!ENTITY dialog.ogameurl "OGame Servername">
+<!ENTITY dialog.ogameuni "Vesolje">
+<!ENTITY dialog.galaxytoolurl "Galaxytool URL">
+<!ENTITY dialog.username "Uporabniško ime">
+<!ENTITY dialog.password "Geslo">
+
+<!ENTITY dialog.autoreports "Samodejno pošiljal poročila">
+<!ENTITY dialog.debug "Pokaži debug informacije">
+<!ENTITY dialog.show_statuswindow "Pokaži stanje">
+<!ENTITY dialog.submib_galaxy "Nalagaj pregled galaksij">
+<!ENTITY dialog.submib_stats "Nalagaj statistiko">
+<!ENTITY dialog.submib_reports "Nalagaj poročila">
+<!ENTITY dialog.submib_allypage "Nalagaj člane alianse">
+<!ENTITY dialog.submib_buildings "Nalagaj zgradbe">
+<!ENTITY dialog.submib_research "Nalagaj raziskave">
+<!ENTITY dialog.submib_fleet "Nalagaj floto">
+<!ENTITY dialog.submib_defense "Nalagaj obrambo">
+
+<!ENTITY dialog.status_window "Status okno">
+<!ENTITY dialog.status_style "CSS Slogi">
+<!ENTITY dialog.status_style_window "Okno">
+<!ENTITY dialog.status_style_header "Header line">
+<!ENTITY dialog.status_style_results "Pogled Stanja">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Splošni podatki">
+<!ENTITY dialog.add_tool "Dodaj nov račun">
+<!ENTITY dialog.delete "Izbriši">
+<!ENTITY dialog.name "Ime">
+<!ENTITY dialog.uni_data "Podatki vesolja">
+<!ENTITY dialog.own_data "Svoji podatki">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool Verzija">
+<!ENTITY dialog.submib_empire "Nalagaj Pogled Imperija">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Nalagaj ladjedelnico">
+<!ENTITY dialog.espionage_action "Nalagaj sovražna vohunska dejanja">
+<!ENTITY dialog.submib_phalanx "Nalagaj poročila z falange">
+<!ENTITY dialog.submib_fmovement "Nalagaj lastne premike flot">
+<!ENTITY dialog.submib_short_cr "Submit short CRs">
+<!ENTITY dialog.submib_player_message "Nalagaj pogovore (activity)">
+<!ENTITY dialog.submib_message_content "Vnašaj tudi vsebino pogovorov">
+<!ENTITY dialog.check_btn "Preveri">
+<!ENTITY dialog.own_player_id "Zahtevaj ID svojega računa">
+<!ENTITY dialog.own_player_id_title "Onemogoči, če se odjavite takoj po dostopu OGame">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Ključ">

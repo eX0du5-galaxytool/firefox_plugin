@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Plugin">
+<!ENTITY toolbar.activate "Aktivoi GTP">
+<!ENTITY toolbar.activate.t "Aktivoi Galaxytool Plugin">
+<!ENTITY toolbar.options "GTP:n asetukset">
+<!ENTITY toolbar.options.t "Galaxytool Pluginin asetukset">
+<!ENTITY toolbar.reports "Hae raportit">
+<!ENTITY toolbar.statusLabel "Tila:">
+<!ENTITY toolbar.statusInfo "ei mitään">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "Galaxytoolit">
+<!ENTITY dialog.tab2 "Pluginin asetukset">
+<!ENTITY dialog.title "Galaxypluginin asetukset">
+<!ENTITY dialog.ogameurl "OGamen palvelin">
+<!ENTITY dialog.ogameuni "Universumi">
+<!ENTITY dialog.galaxytoolurl "Galaxytoolin URL">
+<!ENTITY dialog.username "Käyttäjänimi">
+<!ENTITY dialog.password "Salasana">
+
+<!ENTITY dialog.autoreports "Lähetä raportit automaattisesti">
+<!ENTITY dialog.debug "Näytä debug-tiedot">
+<!ENTITY dialog.show_statuswindow "Näytä tilaikkuna">
+<!ENTITY dialog.submib_galaxy "Lähetä galaksinäkymä">
+<!ENTITY dialog.submib_stats "Lähetä pelaajien ja liittoumien tilastot">
+<!ENTITY dialog.submib_reports "Lähetä raportit">
+<!ENTITY dialog.submib_allypage "Lähetä liittouman jäsensivu">
+<!ENTITY dialog.submib_buildings "Lähetä rakennukset">
+<!ENTITY dialog.submib_research "Lähetä tutkimukset">
+<!ENTITY dialog.submib_fleet "Lähetä laivueet">
+<!ENTITY dialog.submib_defense "Lähetä puolustukset">
+
+<!ENTITY dialog.status_window "Tilaikkuna">
+<!ENTITY dialog.status_style "Määritä CSS-tyylit">
+<!ENTITY dialog.status_style_window "Ikkuna">
+<!ENTITY dialog.status_style_header "Otsikkorivi">
+<!ENTITY dialog.status_style_results "Tilan näyttö">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "Yleiset tiedot">
+<!ENTITY dialog.add_tool "Lisää uusi työkalu">
+<!ENTITY dialog.delete "Poista">
+<!ENTITY dialog.name "Nimi">
+<!ENTITY dialog.uni_data "Universumi tiedot">
+<!ENTITY dialog.own_data "Omat tiedot">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool Versio">
+<!ENTITY dialog.submib_empire "Lähetä Valtakunnan Näkymä">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "Lähetä telakka">
+<!ENTITY dialog.espionage_action "Lähetä vihamieliset vakoilutoiminnat">
+<!ENTITY dialog.submib_phalanx "Lähetä sensoriraportit">
+<!ENTITY dialog.submib_fmovement "Lähetä omat laivueliikenteet">
+<!ENTITY dialog.submib_short_cr "Lähetä lyhyet taisteluraportit">
+<!ENTITY dialog.submib_player_message "Lähetä viestit (aktiivisuus)">
+<!ENTITY dialog.submib_message_content "Lähetä myös viestien sisältö">
+<!ENTITY dialog.check_btn "Tarkista">
+<!ENTITY dialog.own_player_id "Ano oma OGame pelaajatunnus">
+<!ENTITY dialog.own_player_id_title "Kytke pois päältä, jos lennät pelistä ulos, kun yrität kirjautua OGameen">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "Kirjautumisavain">

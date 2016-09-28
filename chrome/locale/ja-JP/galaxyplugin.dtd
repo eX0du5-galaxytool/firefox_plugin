@@ -1,0 +1,64 @@
+<!-- Toolbar buttons and labels -->
+<!ENTITY toolbar.name "Galaxytool Toolbar">
+<!ENTITY toolbar.activate "GTP 有効化">
+<!ENTITY toolbar.activate.t "ツールバーを有効化する">
+<!ENTITY toolbar.options "ツールバーを設定">
+<!ENTITY toolbar.options.t "ツールバーの設定">
+<!ENTITY toolbar.reports "スパイ レポート">
+<!ENTITY toolbar.statusLabel "状況:">
+<!ENTITY toolbar.statusInfo "無し">
+
+<!-- Options dialog labels -->
+<!ENTITY dialog.tab1 "接続先設定">
+<!ENTITY dialog.tab2 "プラグイン設定">
+<!ENTITY dialog.title "Galaxyplugin設定">
+<!ENTITY dialog.ogameurl "OGame サーバ名">
+<!ENTITY dialog.ogameuni "宇宙">
+<!ENTITY dialog.galaxytoolurl "Galaxytool URL">
+<!ENTITY dialog.username "ユーザー名">
+<!ENTITY dialog.password "パスワード">
+
+<!ENTITY dialog.autoreports "スパイ レポートを自動的に送信">
+<!ENTITY dialog.debug "デバグ情報表示">
+<!ENTITY dialog.show_statuswindow "ステータス ウィンドウを表示">
+<!ENTITY dialog.submib_galaxy "銀河ビューを送信">
+<!ENTITY dialog.submib_stats "ランキングを送信">
+<!ENTITY dialog.submib_reports "スパイ レポートを送信">
+<!ENTITY dialog.submib_allypage "同盟 メンバーリストを送信">
+<!ENTITY dialog.submib_buildings "建物を送信">
+<!ENTITY dialog.submib_research "リサーチを送信">
+<!ENTITY dialog.submib_fleet "艦隊を送信">
+<!ENTITY dialog.submib_defense "防衛を送信">
+
+<!ENTITY dialog.status_window "ステータス ウィンドウ">
+<!ENTITY dialog.status_style "CSS Stylesを定義">
+<!ENTITY dialog.status_style_window "ウィンドウ">
+<!ENTITY dialog.status_style_header "ヘッダ">
+<!ENTITY dialog.status_style_results "ステータス">
+
+<!-- Version 2.3 changes -->
+<!ENTITY dialog.general_data "概要情報">
+<!ENTITY dialog.add_tool "接続先を追加">
+<!ENTITY dialog.delete "削除">
+<!ENTITY dialog.name "設定名">
+<!ENTITY dialog.uni_data "宇宙のデータ">
+<!ENTITY dialog.own_data "自身のデータ">
+
+<!-- Version 2.4 changes -->
+<!ENTITY dialog.galaxytool_version "Galaxytool バージョン">
+<!ENTITY dialog.submib_empire "帝国ビューを登録">
+
+<!-- Version 2.5 changes -->
+<!ENTITY dialog.submib_shipyard "造船所を送信">
+<!ENTITY dialog.espionage_action "非友好的なスパイアクションを送信">
+<!ENTITY dialog.submib_phalanx "月のセンサーレポートを送信">
+<!ENTITY dialog.submib_fmovement "自身の艦隊の動きを送信">
+<!ENTITY dialog.submib_short_cr "対戦レポートを送信">
+<!ENTITY dialog.submib_player_message "プレイヤーメッセージを送信 (アクティビティー)">
+<!ENTITY dialog.submib_message_content "プレイヤーメッセージの内容を送信">
+<!ENTITY dialog.check_btn "チェック">
+<!ENTITY dialog.own_player_id "自分のOgameプレイヤーIDを要求する。">
+<!ENTITY dialog.own_player_id_title "Ogameへアクセス直後にログアウトさせられる場合は無効にする。">
+
+<!-- Version 2.6 changes -->
+<!ENTITY dialog.token "ログオンキー">
